@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="115.28.207.52">
+    <serverData>
+      <paths name="115.28.207.52">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/appoint" local="$PROJECT_DIR$" web="/appoint" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
