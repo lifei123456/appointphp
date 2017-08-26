@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0048)http://m.wanyan.com/app/vote2/#!/send/moive/list
--->
 <html lang="en">
 <?php
 $res = json_decode(file_get_contents("./resource/config.json"),true);

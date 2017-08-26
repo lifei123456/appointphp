@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0059)http://m.wanyan.com/app/vote2/#!/send/moive?t=1490243579014 -->
 <html lang="en">
 <?php
 require_once "function/function.php";
